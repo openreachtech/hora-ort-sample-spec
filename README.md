@@ -11,10 +11,11 @@ Each directory is one application, and holds the spec exactly as `/hora-spec` wr
 ```
 <application>/
   specs/<version>/spec.md     the spec, written one approved section at a time
-  README.md                   what the application does, and what it took to build
+  README.md                   what the application does, and what it took to write
+  README.ja.md                the same, in Japanese
 ```
 
-**Nothing here is written after the fact.** A spec in this repository is the document a run actually produced and built from — that is the whole point of publishing it. Where a line reads oddly, it reads oddly in the real one too.
+**Nothing here is written after the fact.** A spec in this repository is the document a run actually produced — that is the whole point of publishing it. Where a line reads oddly, it reads oddly in the real one too.
 
 ## What a reader gets from it
 
